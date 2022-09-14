@@ -4,7 +4,7 @@
   "description": "A video chat/meeting webapp using WebRTC and WebSockets (socket.io). Basically a Google Meet clone + a collaborative whiteboard.",
   "main": "server.js",
   "engines": {
-    "node": "14.x"
+    "node": "16.x"
   },
   "scripts": {
     "start": "node server.js",
